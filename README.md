@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .WEBSITE one-word domains still available to buy.
 
-This dataset contains 4,288 .WEBSITE one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,291 .WEBSITE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.WEBSITE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=website-oneword-domains&utm_content=description.top) (4,297) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.WEBSITE one word doma
 
 | Domain             | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------------ | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.website        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.website      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.website        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.website      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.website  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.website      | available | 43       | 2%     | 5      |           |         |         |
 | abashed.website    | available | 60       | 2%     | 7      |           |         |         |
@@ -30,7 +30,7 @@ If you want to search & filters the complete database of [.WEBSITE one word doma
 | abatic.website     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.website    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.website   | available | 50       | 1%     | 8      |           |         |         |
-| abc.website        | available | 102      | 41%    | 3      |           |         |         |
+| abc.website        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.website  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.website  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.website | available | 56       | 1%     | 10     |           |         |         |
@@ -44,7 +44,7 @@ If you want to search & filters the complete database of [.WEBSITE one word doma
 | abhorrent.website  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.website    | available | 106      | 5%     | 7      |           |         |         |
 | abient.website     | available | 54       | 1%     | 6      |           |         |         |
-| ability.website    | available | 92       | 18%    | 7      |           |         |         |
+| ability.website    | premium   | 92       | 18%    | 7      |           |         |         |
 | abit.website       | available | 66       | 16%    | 5      |           |         |         |
 | abject.website     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.website     | available | 68       | 1%     | 6      |           |         |         |
