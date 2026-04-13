@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C597%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C598%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C595%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .website one-word domains from Uni
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,597 rows · **Live catalog:** 8,595 domains
+**Public extract:** 8,598 rows · **Live catalog:** 8,595 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/website`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .WEBSITE one-word doma
 
 ### Files
 
-- `website.csv` — public CSV extract (8,597 rows)
-- `website.json` — public JSON extract (8,597 rows)
+- `website.csv` — public CSV extract (8,598 rows)
+- `website.json` — public JSON extract (8,598 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -65,25 +65,25 @@ print(df.head())
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
 | seventeen.website | available | $4.99     | $37.99        | 84             | 62     | 9      | name.com           |
-| powerful.website  | resell    | —         | —             | 82             | 97     | 8      | Dynadot LLC        |
+| affinity.website  | resell    | —         | —             | 74             | 81     | 8      | Dynadot Inc        |
 | easy.website      | premium   | $3,125    | $6,250        | 128            | 68     | 4      | name.com           |
 | higher.website    | available | $4.99     | —             | 86             | 26     | 6      | name.com           |
-| affinity.website  | resell    | —         | —             | 74             | 81     | 8      | Dynadot Inc        |
+| pay.website       | resell    | —         | —             | 84             | 60     | 3      | NAME DOT STORE INC |
 | power.website     | premium   | $650      | $1,300        | 98             | 62     | 5      | namecheap          |
 | hold.website      | available | $4.99     | —             | 80             | 26     | 4      | name.com           |
-| pay.website       | resell    | —         | —             | 84             | 60     | 3      | NAME DOT STORE INC |
+| cloud.website     | resell    | —         | —             | 70             | 59     | 5      | NAME DOT STORE INC |
 | ace.website       | premium   | $1,562.50 | $3,125        | 88             | 57     | 3      | name.com           |
 | tender.website    | available | $4.99     | $37.99        | 120            | 25     | 6      | name.com           |
-| free.website      | resell    | —         | —             | 88             | 59     | 4      | NAME DOT STORE INC |
+| free.website      | resell    | —         | —             | 88             | 57     | 4      | NAME DOT STORE INC |
 | live.website      | premium   | $6,250    | $12,500       | 108            | 56     | 4      | name.com           |
 | stretch.website   | available | $4.99     | $37.99        | 100            | 24     | 7      | name.com           |
-| cloud.website     | resell    | —         | —             | 70             | 59     | 5      | NAME DOT STORE INC |
+| limitless.website | resell    | —         | —             | 80             | 55     | 9      | GoDaddy.com, LLC   |
 | zero.website      | premium   | $625      | $1,250        | 112            | 53     | 4      | name.com           |
 | grape.website     | available | $4.99     | —             | 80             | 23     | 5      | name.com           |
-| limitless.website | resell    | —         | —             | 80             | 56     | 9      | GoDaddy.com, LLC   |
+| music.website     | resell    | —         | —             | 84             | 54     | 5      | NAME DOT STORE INC |
 | true.website      | premium   | $625      | $1,250        | 86             | 52     | 4      | name.com           |
 | speech.website    | available | $4.99     | —             | 78             | 23     | 6      | name.com           |
-| music.website     | resell    | —         | —             | 84             | 54     | 5      | NAME DOT STORE INC |
+| business.website  | resell    | —         | —             | 90             | 53     | 8      | NAME DOT STORE INC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,597-row public sample | 8,595 live domains                               |
+| 8,598-row public sample | 8,595 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WEBSITE One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WEBSITE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
