@@ -1,10 +1,10 @@
-# Available .WEBSITE One-Word Domains (10,998)
+# Available .WEBSITE One-Word Domains (11,368)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C998%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C368%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .website one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,998 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,368 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,998 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,368 domains · **Median ask:** $183.47 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-04  
 **Canonical page:** `https://unique.domains/domains/tld/website`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
+| coming.website      | premium   | —         | —             | 88             | 12     | 6      | —                  |
+| hangon.website      | available | $4.99     | —             | 82             | 6      | 7      | name.com           |
+| stirup.website      | available | $4.99     | —             | 82             | 3      | 7      | name.com           |
+| dogsick.website     | available | $4.99     | —             | 90             | 1      | 7      | name.com           |
+| surebet.website     | available | $4.99     | —             | 82             | 8      | 8      | name.com           |
+| fitinto.website     | available | $4.99     | —             | 84             | 2      | 8      | name.com           |
+| chaitea.website     | available | $4.99     | —             | 86             | 3      | 8      | name.com           |
+| criteria.website    | available | $4.99     | —             | 88             | 10     | 8      | name.com           |
 | Siri.website        | available | $20.98    | —             | 76             | 68     | 4      | namecheap          |
 | online.website      | resell    | —         | —             | 70             | 62     | 7      | NAME DOT STORE INC |
 | hotels.website      | premium   | $6,250    | —             | 64             | 82     | 6      | name.com           |
 | commonsense.website | available | $4.99     | —             | 86             | 30     | 12     | name.com           |
 | jobs.website        | resell    | —         | —             | 79             | 42     | 4      | Namify Domains Inc |
-| winners.website     | premium   | $625      | —             | 60             | 81     | 7      | name.com           |
+| donuts.website      | premium   | $625      | —             | 54             | 62     | 6      | name.com           |
 | Iseeyou.website     | available | $20.98    | —             | 58             | 23     | 9      | namecheap          |
 | movies.website      | resell    | —         | —             | 80             | 28     | 6      | NAME DOT STORE INC |
-| donuts.website      | premium   | $625      | —             | 54             | 62     | 6      | name.com           |
+| travelers.website   | premium   | $312.50   | —             | 58             | 61     | 9      | name.com           |
 | brothers.website    | available | $4.99     | —             | 60             | 22     | 8      | name.com           |
 | whats.website       | resell    | —         | —             | 58             | 24     | 5      | Spaceship, Inc.    |
-| travelers.website   | premium   | $312.50   | —             | 58             | 61     | 9      | name.com           |
-| WestEnd.website     | available | $20.98    | —             | 70             | 21     | 8      | namecheap          |
-| Containers.website  | resell    | —         | —             | 54             | 17     | 10     | Spaceship, Inc.    |
 | regions.website     | premium   | $312.50   | —             | 64             | 59     | 7      | name.com           |
-| multiplayer.website | available | $4.99     | —             | 81             | 20     | 11     | name.com           |
-| extras.website      | resell    | —         | —             | 56             | 11     | 6      | InterNetX GmbH     |
-| Books.website       | premium   | $1,750    | $3,500        | 52             | 49     | 5      | namecheap          |
-| outofoffice.website | available | $4.99     | —             | 61             | 19     | 13     | name.com           |
-| Ryan.website        | premium   | $700      | $1,400        | 60             | 44     | 4      | namecheap          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,998 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,368 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely focused on one-word domains in the .website extension. The names range from direct dictionary-style terms to short action phrases and coined words, such as Acup.website, useit.website, coming.website, and edamame.website. For founders, the main question is whether the word is memorable enough to offset the longer, more literal extension. For investors, the key test is price discipline: the median ask is $183.47, so stronger names should justify that cost through clarity, relevance, or broad commercial use. When comparing these domains, weigh word quality first, then extension fit, then renewal economics and possible trademark friction.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Best fit: direct, descriptive, one-word branding
+- Median ask is $183.47 across 11,368 domains
+- Check if the word reads naturally with .website
+- Avoid names with obvious trademark exposure
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WEBSITE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WEBSITE One-Word Domains*. Version 2026-05-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
