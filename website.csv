@@ -790,6 +790,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4a739e65-5c0c-4fb7-94ee-0f97d20046f6,propernouns.website,available,2.99,22.99,48,1,12,namesilo,,
 4a80df88-32db-430c-aeb8-ebbf3c64cb60,fanmail.website,available,4.99,,74,7,8,name.com,,
 4a8f785b-b872-4163-b933-8d4b129af2b0,proxybattle.website,available,4.99,,44,1,12,name.com,,
+4a96e5fd-e3f4-4f7f-917b-e01e84df3b58,independenceday.website,premium,,,78,7,16,,,
 4aa7d764-dcf5-4973-9f29-fd3dacb077f3,feelupto.website,available,4.99,,50,1,10,name.com,,
 4ab60890-b2ee-46e0-975f-8172ba39d3c6,tongues.website,available,4.99,,51,6,7,name.com,,
 4aba24d9-2620-42c8-a9fc-1d7c6e8e1074,fasttracking.website,available,2.99,22.99,48,3,13,namesilo,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5e639854-5c13-49cf-8281-ac7fdb9f2ee0,highresolution.website,available,4.99,,64,3,15,name.com,,
 5e928c73-f3d1-4ebf-be69-58145e35d368,makeupartist.website,available,4.99,,76,5,13,name.com,,
 5eadea8e-8b1f-45f6-a735-a6985d77a03f,colleagues.website,available,2.99,22.99,56,5,10,namesilo,,
-5eb73c0e-2e1c-4c8c-b03c-cbc495f7aaa8,recaptured.website,available,4.99,,48,2,10,name.com,,
