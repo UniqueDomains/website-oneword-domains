@@ -79,7 +79,7 @@ print(df.head())
 | jobs.website        | resell    | —         | —             | 79             | 42     | 4      | Namify Domains Inc |
 | donuts.website      | premium   | $625      | —             | 54             | 62     | 6      | name.com           |
 | Iseeyou.website     | available | $20.98    | —             | 58             | 23     | 9      | namecheap          |
-| movies.website      | resell    | —         | —             | 80             | 28     | 6      | NAME DOT STORE INC |
+| movies.website      | resell    | —         | —             | 80             | 28     | 6      | Namify Domains Inc |
 | travelers.website   | premium   | $312.50   | —             | 58             | 61     | 9      | name.com           |
 | brothers.website    | available | $4.99     | —             | 60             | 22     | 8      | name.com           |
 | whats.website       | resell    | —         | —             | 58             | 24     | 5      | Spaceship, Inc.    |
