@@ -1,10 +1,10 @@
-# Available .WEBSITE One-Word Domains (25,656)
+# Available .WEBSITE One-Word Domains (27,010)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C656%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C010%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .website one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,656 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,010 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,656 domains · **Median ask:** $100.81 · **High-demand under $2,500:** 44
+**Public extract:** 1,000 rows · **Live catalog:** 27,010 domains · **Median ask:** $107.25 · **High-demand under $2,500:** 37
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/website`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
-| ashy.website   | available | $0.98     | $20.98        | low            | low    | 4      | namecheap          |
-| free.website   | resell    | —         | —             | high           | medium | 4      | Namify Domains Inc |
-| add.website    | premium   | $625      | —             | high           | low    | 3      | name.com           |
-| aunt.website   | available | $2.99     | $22.99        | high           | low    | 4      | namesilo           |
-| mild.website   | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.    |
-| ale.website    | premium   | $312.50   | —             | medium         | low    | 3      | name.com           |
-| buns.website   | available | $0.98     | $20.98        | low            | low    | 4      | namecheap          |
-| flame.website  | resell    | —         | —             | high           | low    | 5      | Dynadot Inc        |
-| and.website    | premium   | $1,562.50 | —             | high           | medium | 3      | name.com           |
-| dewy.website   | available | $0.98     | $20.98        | low            | low    | 4      | namecheap          |
-| graph.website  | resell    | —         | —             | high           | low    | 5      | Dynadot Inc        |
-| Ann.website    | premium   | $625      | —             | high           | low    | 3      | name.com           |
-| grew.website   | available | $2.99     | $22.99        | high           | low    | 4      | namesilo           |
-| LGBTQ.website  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC   |
-| ask.website    | premium   | $1,562.50 | —             | high           | medium | 3      | name.com           |
-| ilxx.website   | available | $0.98     | $20.98        | low            | low    | 4      | namecheap          |
-| moment.website | resell    | —         | —             | high           | low    | 6      | Porkbun LLC        |
-| bob.website    | premium   | $625      | —             | high           | medium | 3      | name.com           |
-| otic.website   | available | $0.98     | $20.98        | low            | low    | 4      | namecheap          |
-| naming.website | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC   |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
+| half.website    | premium   | $640      | $640          | high           | low    | 4      | namesilo           |
+| okay.website    | premium   | $312.50   | $625          | high           | low    | 4      | name.com           |
+| beauty.website  | premium   | $1,562.50 | —             | high           | low    | 6      | name.com           |
+| nothing.website | available | —         | —             | high           | low    | 7      | —                  |
+| jesus.website   | premium   | $1,562.50 | —             | high           | medium | 5      | name.com           |
+| ashy.website    | available | $0.98     | $20.98        | low            | low    | 4      | namecheap          |
+| free.website    | resell    | —         | —             | high           | medium | 4      | Namify Domains Inc |
+| add.website     | premium   | $625      | —             | high           | low    | 3      | name.com           |
+| aunt.website    | available | $2.99     | $22.99        | high           | low    | 4      | namesilo           |
+| mild.website    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.    |
+| ale.website     | premium   | $312.50   | —             | medium         | low    | 3      | name.com           |
+| buns.website    | available | $0.98     | $20.98        | low            | low    | 4      | namecheap          |
+| flame.website   | resell    | —         | —             | high           | low    | 5      | Dynadot Inc        |
+| and.website     | premium   | $1,562.50 | —             | high           | medium | 3      | name.com           |
+| dewy.website    | available | $0.98     | $20.98        | low            | low    | 4      | namecheap          |
+| graph.website   | resell    | —         | —             | high           | low    | 5      | Dynadot Inc        |
+| ann.website     | premium   | $625      | —             | high           | low    | 3      | name.com           |
+| grew.website    | available | $2.99     | $22.99        | high           | low    | 4      | namesilo           |
+| lgbtq.website   | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC   |
+| ask.website     | premium   | $1,562.50 | —             | high           | medium | 3      | name.com           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,656 live domains                        |
+| 1,000-row public sample | 27,010 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 44 high-demand names under $2,500          |
+| Basic exported fields   | 37 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WEBSITE One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WEBSITE One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
