@@ -1,10 +1,10 @@
-# Available .WEBSITE One-Word Domains (29,406)
+# Available .WEBSITE One-Word Domains (30,234)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C406%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C234%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .website one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,406 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **30,234 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,406 domains · **Median ask:** $110.80 · **High-demand under $2,500:** 33
+**Public extract:** 1,000 rows · **Live catalog:** 30,234 domains · **Median ask:** $111.63 · **High-demand under $2,500:** 32
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/website`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
-| ashy.website         | available | $0.98     | $20.98        | low            | low    | 4      | namecheap          |
-| intelligence.website | resell    | $62.50    | —             | medium         | low    | 12     | name.com           |
-| add.website          | premium   | $625      | —             | high           | low    | 3      | name.com           |
-| aunt.website         | available | $2.99     | $22.99        | high           | low    | 4      | namesilo           |
-| free.website         | resell    | —         | —             | low            | low    | 4      | Namify Domains Inc |
-| ale.website          | premium   | $312.50   | —             | medium         | low    | 3      | name.com           |
-| buns.website         | available | $0.98     | $20.98        | low            | low    | 4      | namecheap          |
-| mild.website         | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.    |
-| and.website          | premium   | $1,562.50 | —             | high           | medium | 3      | name.com           |
-| dewy.website         | available | $0.98     | $20.98        | low            | low    | 4      | namecheap          |
-| flame.website        | resell    | —         | —             | high           | low    | 5      | Dynadot Inc        |
-| ann.website          | premium   | $625      | —             | high           | low    | 3      | name.com           |
-| gran.website         | available | $4.99     | —             | medium         | low    | 4      | name.com           |
-| graph.website        | resell    | —         | —             | high           | low    | 5      | Dynadot Inc        |
-| ask.website          | premium   | $1,562.50 | —             | high           | medium | 3      | name.com           |
-| grew.website         | available | $2.99     | $22.99        | high           | low    | 4      | namesilo           |
-| lgbtq.website        | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC   |
-| bob.website          | premium   | $1,107    | $1,107        | medium         | low    | 3      | namesilo           |
-| ilxx.website         | available | $0.98     | $20.98        | low            | low    | 4      | namecheap          |
-| naming.website       | resell    | —         | —             | medium         | low    | 6      | GoDaddy.com, LLC   |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| ashy.website    | available | $0.98     | $20.98        | high           | low    | 4      | namecheap                                               |
+| mild.website    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                         |
+| add.website     | premium   | $625      | —             | high           | low    | 3      | name.com                                                |
+| aunt.website    | available | $2.99     | $22.99        | high           | low    | 4      | namesilo                                                |
+| flame.website   | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                             |
+| ale.website     | premium   | $312.50   | —             | high           | low    | 3      | name.com                                                |
+| awed.website    | available | $0.98     | $20.98        | medium         | low    | 4      | namecheap                                               |
+| graph.website   | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                             |
+| and.website     | premium   | $1,562.50 | —             | high           | medium | 3      | name.com                                                |
+| buns.website    | available | $0.98     | $20.98        | medium         | low    | 4      | namecheap                                               |
+| lgbtq.website   | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                                        |
+| ann.website     | premium   | $625      | —             | high           | low    | 3      | name.com                                                |
+| cord.website    | available | $2.99     | $22.99        | high           | low    | 4      | namesilo                                                |
+| signal.website  | resell    | —         | —             | high           | medium | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| aol.website     | premium   | $625      | —             | high           | high   | 3      | name.com                                                |
+| cxlv.website    | available | $0.98     | $20.98        | high           | low    | 4      | namecheap                                               |
+| things.website  | resell    | —         | —             | high           | low    | 6      | Porkbun LLC                                             |
+| are.website     | premium   | $625      | —             | high           | low    | 3      | name.com                                                |
+| dewy.website    | available | $0.98     | $20.98        | medium         | low    | 4      | namecheap                                               |
+| request.website | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,406 live domains                        |
+| 1,000-row public sample | 30,234 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 33 high-demand names under $2,500          |
+| Basic exported fields   | 32 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
